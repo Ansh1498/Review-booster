@@ -1,0 +1,23 @@
+{
+  "brew-cafe": {
+    "name": "Brew Cafe",
+    "category": "cafe",
+    "logo": "/logos/brew-cafe.png",
+    "brandColor": "#8B5E3C",
+    "googleReviewUrl": "https://search.google.com/local/writereview?placeid=YOUR_PLACE_ID"
+  },
+  "glow-salon": {
+    "name": "Glow Salon",
+    "category": "salon",
+    "logo": "/logos/glow-salon.png",
+    "brandColor": "#C2185B",
+    "googleReviewUrl": "https://search.google.com/local/writereview?placeid=YOUR_PLACE_ID"
+  },
+  "fitzone-gym": {
+    "name": "FitZone Gym",
+    "category": "gym",
+    "logo": "/logos/fitzone.png",
+    "brandColor": "#1E88E5",
+    "googleReviewUrl": "https://search.google.com/local/writereview?placeid=YOUR_PLACE_ID"
+  }
+}
